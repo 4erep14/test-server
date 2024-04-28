@@ -231,7 +231,7 @@
     "jest-html-reporter": "^3.7.0",
     "jest-stare": "^2.4.1",
     "json-schema-faker": "^0.5.0-rcv.44",
-    "maildev": "^2.0.5",
+    "maildev": "^2.1.0",
     "ncp": "^2.0.0",
     "nodemon": "^2.0.20",
     "npm-check": "^6.0.1",
